@@ -2,3 +2,4 @@
 
 
 Ссылка на проект:.
+https://annazhivotkevich.github.io/yandex_practicum_2_sprint/
